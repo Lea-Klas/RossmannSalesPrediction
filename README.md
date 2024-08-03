@@ -9,7 +9,7 @@ This project focuses on developing a unified model to predict weekly store sales
 - `data/test.csv`: The dataset containing the historical sales data of 1,115 Rossmann stores.
 - `data/store.csv`: The dataset containing additional information about the 1,115 Rossmann stores.
 
-  ## Features
+## Features
 - Predict weekly sales for Rossmann stores
 - Perform exploratory data analysis (EDA)
 - Analyze the impact of various factors on sales
