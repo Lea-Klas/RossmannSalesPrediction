@@ -9,6 +9,13 @@ This project focuses on developing a unified model to predict weekly store sales
 - `data/test.csv`: The dataset containing the historical sales data of 1,115 Rossmann stores.
 - `data/store.csv`: The dataset containing additional information about the 1,115 Rossmann stores.
 
+  ## Features
+- Predict weekly sales for Rossmann stores
+- Perform exploratory data analysis (EDA)
+- Analyze the impact of various factors on sales
+- Provide strategic recommendations to optimize sales
+- Generate individual and overall performance reports
+
 ## Installation
 To set up this project on your local PC, open your terminal/command prompt and run the following commands:
 
@@ -33,13 +40,6 @@ To set up this project on your local PC, open your terminal/command prompt and r
    ```bash
    jupyter notebook
    ```
-
-## Features
-- Predict weekly sales for Rossmann stores
-- Perform exploratory data analysis (EDA)
-- Analyze the impact of various factors on sales
-- Provide strategic recommendations to optimize sales
-- Generate individual and overall performance reports
 
 ## Dependencies
 The project requires the following Python libraries:
