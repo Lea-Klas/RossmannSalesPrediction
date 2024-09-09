@@ -2,7 +2,7 @@
 # Rossmann Store Sales Prediction
 
 ## Introduction
-This project focuses on developing a unified model to predict weekly store sales using historical sales data from 2013 to 2015. Additionally, I performed a comprehensive exploratory data analysis (EDA) to identify key factors influencing sales performance. This analysis provides strategic insights and recommendations for optimizing future sales. Finally, I generated an overall performance report and individual performance reports for each store. Subsequently, I have created an interactive Tableau Dashboard to visualize the indidivual performance reports.
+This project focuses on developing a unified model to predict weekly store sales using historical sales data from 2013 to 2015. Additionally, I performed a comprehensive exploratory data analysis (EDA) to identify key factors influencing sales performance. This analysis provides strategic insights and recommendations for optimizing future sales. Finally, I generated an overall performance report and individual performance reports for each store. Additionally, I have created an interactive Tableau Dashboard to visualize the individual performance reports.
 
 ## Files
 - `rossmann.ipynb`: The main Jupyter Notebook containing the code.
